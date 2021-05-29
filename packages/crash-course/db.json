@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post one",
+      "body": "This is the post one",
+      "publishedAt": "10-01-2021"
+    },
+    {
+      "id": "2",
+      "title": "Post two",
+      "body": "This is the post two",
+      "publishedAt": "10-02-2021"
+    },
+    {
+      "id": "3",
+      "title": "Post three",
+      "body": "This is the post three",
+      "publishedAt": "10-02-2021"
+    },
+    {
+      "title": "Post Four",
+      "body": "This is a Post four - test edit",
+      "publishedAt": "2021-05-26",
+      "id": "Pg2LAOb"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Jhon Smith",
+      "email": "jhon@gmai.com"
+    },
+    {
+      "title": "Jhony",
+      "name": "Jhony a",
+      "email": "Jhony@hotmail.com",
+      "id": "JSqxJZG"
+    },
+    {
+      "name": "tset",
+      "email": "teste@hotmail.com",
+      "id": "GhK3ERy"
+    }
+  ]
+}
