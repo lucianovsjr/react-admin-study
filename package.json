@@ -1,19 +1,20 @@
 {
-  "name": "react-admin",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "lerna run start --scope=crash-course",
-    "test": "lerna run test",
-    "new-version": "lerna version --conventional-commit --yes",
-    "diff": "lerna diff",
-    "dev-crash": "lerna run start --scope={crash-course,crash-course-client}"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "lerna": "^4.0.0"
-  }
+    "name": "react-admin",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "lerna run start --scope=crash-course",
+        "test": "lerna run test",
+        "new-version": "lerna version --conventional-commit --yes",
+        "diff": "lerna diff",
+        "dev-crash": "lerna run start --scope={crash-course,crash-course-client}",
+        "tutorial-start": "PORT=3001 lerna run start --scope=tutorial"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "lerna": "^4.0.0"
+    }
 }

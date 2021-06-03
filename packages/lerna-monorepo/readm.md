@@ -28,3 +28,7 @@ npx lerna bootstrap --hoist
 # Execute only package. used Project name from pachage.json
 --scope=crash-course
 ```
+
+- https://github.com/lerna/lerna
+- Instalar pacotes: https://github.com/lerna/lerna/tree/main/commands/add#readme
+- Criar packages: https://github.com/lerna/lerna/tree/main/commands/create#readme
